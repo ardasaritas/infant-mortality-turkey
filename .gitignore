@@ -1,0 +1,14 @@
+# R session files
+.RData
+.Rhistory
+.RProj.user/
+*.Rproj
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# R package build artifacts
+*.o
+*.so
+*.dll
